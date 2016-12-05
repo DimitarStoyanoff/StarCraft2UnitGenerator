@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">StarCraft 2 Unit Generator</string>
+    <string name="repick_button">Repick</string>
+    <string name="or_text">or</string>
+    <string name="caption_normal">Select a random race. You will monobattle as:</string>
+    <string name="switch_off_text">Not enough swears?</string>
+
+    <string-array name="protoss_units">
+        <item>Archon</item>
+        <item>Carrier</item>
+        <item>Collosus</item>
+        <item>Dark Templar</item>
+        <item>High Templar</item>
+        <item>Immortal</item>
+        <item>Mothership</item>
+        <item>Mothership core</item>
+        <item>Phoenix</item>
+        <item>Probe</item>
+        <item>Sentry</item>
+        <item>Stalker</item>
+        <item>Void Ray</item>
+        <item>Zealot</item>
+        <item>Oracle</item>
+        <item>Tempest</item>
+        <item>Adept</item>
+        <item>Disruptor</item>
+
+    </string-array>
+
+    <string-array name="terran_units">
+        <item>Banshee</item>
+        <item>Battlecruiser</item>
+        <item>Ghost</item>
+        <item>Hellion</item>
+        <item>Hellbat</item>
+        <item>Marauder</item>
+        <item>Marine</item>
+        <item>Raven</item>
+        <item>Reaper</item>
+        <item>SCV</item>
+        <item>Siege Tank</item>
+        <item>Thor</item>
+        <item>Viking</item>
+        <item>Widow Mine</item>
+        <item>Liberator</item>
+        <item>Cyclone</item>
+
+    </string-array>
+
+    <string-array name="zerg_units">
+        <item>Corruptor</item>
+        <item>Brood Lord</item>
+        <item>Drone</item>
+        <item>Hydralisk</item>
+        <item>Infestor</item>
+        <item>Mutalisk</item>
+        <item>Queen</item>
+        <item>Roach</item>
+        <item>Ultralisk</item>
+        <item>Zergling</item>
+        <item>Baneling</item>
+        <item>Swarm Host</item>
+        <item>Ravager</item>
+        <item>Lurker</item>
+        <item>Viper</item>
+
+    </string-array>
+
+    <string-array name="protoss_cool_units">
+        <item>POWER OVERWHELMING</item>
+        <item>FUCKING BEE HIVES (CARRIER)</item>
+        <item>FUCKING GIRAFFES (COLOSSUS)</item>
+        <item>SEND IN THE NINJAS</item>
+        <item>WEATHERMEN (HIGH TEMPLAR)</item>
+        <item>FENIX IS NOT DED (IMMORTAL) </item>
+        <item>MOTHERSHIP CANNON RUSH</item>
+        <item>MOTHERSHIP CORE PYLON RUSH</item>
+        <item>MASS PHOENIX</item>
+        <item>PROBES AND PROXY NEXI FOR MORE PROBES</item>
+        <item>TICKLE FIGHT (SENTRY)</item>
+        <item>YOUR EX GF (STALKER)</item>
+        <item>"SKILL RAY BECAUSE YOU'RE SO SKILLFUL"</item>
+        <item>DAS PURIFIER BEAM (SKILL RAY)</item>
+        <item>ZEELOTS</item>
+        <item>MOTHERFUCKING DISCO BALLS (ORACLE)</item>
+        <item>GOLDEN ARMADA FTW (TEMPEST)</item>
+        <item>ADEPTS EVERYWHERE</item>
+        <item>$$$ MONEY SHOTS $$$ (DISRUPTOR)</item>
+
+    </string-array>
+
+    <string-array name="terran_cool_units">
+        <item>INVISIBLE JETS (BANSHEE)</item>
+        <item>SEND IN THE FUCKING HYPERION</item>
+        <item>NUKES AND SNIPES</item>
+        <item>FUCKING FIRE TRUCKS (HELLION)</item>
+        <item>TRANSFORMED FIRE TRUCKS (HELLBAT)</item>
+        <item>KABOOM BABY</item>
+        <item>MOTHERFUCKING MARINES GG</item>
+        <item>FUCKING ANNOYING TURRETS (RAVEN)</item>
+        <item>3RAX REAPER</item>
+        <item>200/200 SCV</item>
+        <item>PANZER TIGERS</item>
+        <item>SON OF ODIN(THOR)</item>
+        <item>PROXY THOR AT YOUR DOOR</item>
+        <item>FUCKING VIKINGS</item>
+        <item>WW2 MINE FIELD</item>
+        <item>FREEDOM</item>
+        <item>CYCLONES</item>
+
+    </string-array>
+
+    <string-array name="zerg_cool_units">
+        <item>GG LORDS</item>
+        <item>DRONE RUSH OUT OF FUCKING NOWHERE</item>
+        <item>HAIL HYDRA</item>
+        <item>BEACH BALLS (INFESTOR)</item>
+        <item>TIME TO MUTALATE</item>
+        <item>MASS QUEENS</item>
+        <item>14POOL MOTHERFUCKER (ZERGLING)</item>
+        <item>FUCKING ROACH COLONY</item>
+        <item>MEATGRINDER (ULTRALISK)</item>
+        <item>CALL ISIS FOR HELP (BANELING)</item>
+        <item>SWARM HOST DROPS OF DEATH</item>
+        <item>THE MORTAR CREW (RAVAGER)</item>
+        <item>SPIKE ROADBLOCKS (LURKER)</item>
+        <item>CLOUDS OF DEATH (VIPER)</item>
+
+    </string-array>
+
+    <string-array name="cool_captions">
+        <item>MIND GAMES THE FUCK OUT OF YOUR OPPONENT WITH:</item>
+        <item>MONOBATTLE YOUR FUCKING FRIENDS WITH:</item>
+        <item>TURTLE THE FUCK UP AND MONOBATTLE:</item>
+        <item>"JUST FUCKING CHEESE YOUR OPPONENTS. YOU CAN'T WIN WITH:"</item>
+        <item>BECOME BM KING WITH:</item>
+        <item>FUCKING QUINTUPLE EARLY EXPAND USING:</item>
+        <item>"BUILD ONE OF THIS UNIT, DECIDE YOU'RE BAD AT THE GAME, AND THEN QUIT:"</item>
+        <item>CRY SOFTLY AND START FUCKING BUILDING:</item>
+        <item>SELECT A RANDOM RACE AND FUCKING MONOBATTLE AS:</item>
+        <item>/DANCE AS OFTEN AS YOU FUCKING CAN:</item>
+        <item>MONOBATTLE USING THIS SHIT:</item>
+        <item>BUILD SOME FUCKING:</item>
+        <item>PREPARE TO FUCKING DIE. YOU ROLLED:</item>
+        <item>PREPARE FOR THE INCOMING REPORTS. YOU ROLLED:</item>
+
+    </string-array>
+    
+</resources>
